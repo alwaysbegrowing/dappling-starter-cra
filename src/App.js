@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2>Deployment Instructions:</h2>
+        <h2>DEployment Instructions:</h2>
 
         <h3>Step 1: Fork the Repository</h3>
         <p>
