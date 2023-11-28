@@ -5,7 +5,7 @@ Deployment `bafybeidqkrya32zn3nkmdnpsz3kwtoaabkqd7d5xmwlx6qwwga7m7jxxeq` has bee
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 
