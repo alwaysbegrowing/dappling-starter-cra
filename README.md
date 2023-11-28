@@ -1,11 +1,11 @@
 # Verification
 Deployment `bafybeidqkrya32zn3nkmdnpsz3kwtoaabkqd7d5xmwlx6qwwga7m7jxxeq` has been signed by `dappling.eth` [See Verification](https://signer.is/verify/JTdCJTIyY2xhaW1lZF9tZXNzYWdlJTIyJTNBJTIyYmFmeWJlaWRxa3J5YTMyem4zbmttZG5wc3oza3d0b2FhYmtxZDdkNXhtd2x4NnF3d2dhN203anh4ZXElMjIlMkMlMjJzaWduZWRfbWVzc2FnZSUyMiUzQSUyMjB4MGJlNDAxZjcwMWQ0YzQ5OWVmZDZiZGYzZjQzZWRmZTNjZTM5ZmVjYTZlYzI0M2NhODBhY2JhNWFhYjQ2MDVjZTJjNjZlMWQ1YWJkN2UxMzM3ZTc4ZTBmOGUxNWUyMzFmNjFlNzZhMDIwMDNkNjM2Y2I2NmRlNjA1OTEwOGYxMzgxYyUyMiUyQyUyMmNsYWltZWRfc2lnbmF0b3J5JTIyJTNBJTIyMHgxZjkyMzkwRWNkNDY2MzQ1Q2RlODJkZTk3REI4OTFEMDZFOWNFQTE5JTIyJTdE)
 
-# Getting Started with Create React App
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 
@@ -15,7 +15,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any lint errors in the console. 
 
 ### `npm test`
 

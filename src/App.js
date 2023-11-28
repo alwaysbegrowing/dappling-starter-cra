@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Deployment Instructions:</h2>
+        {JSON.stringify(process.env, null, 2)}
 
-        <h3>Step 1: Fork the Repository</h3>
+        <h3>Step 1: Fork the test</h3>
         <p>
           To deploy this project, first fork the repository{" "}
           <a
